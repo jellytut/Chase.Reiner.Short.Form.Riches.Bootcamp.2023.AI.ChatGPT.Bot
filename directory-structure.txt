@@ -1,0 +1,10 @@
+Chase.Reiner.Short.Form.Riches.Bootcamp.2023.AI.ChatGPT.Bot/
+├── directory-structure.txt
+└── Season 01
+    ├── S01E01.Introduction.And.Overview.mp4
+    ├── S01E02.How.to.avoid.TikTok.videos.getting.banned.mp4
+    ├── S01E03.Discussing.CRMs.mp4
+    ├── S01E04.Core.Concepts.and.What.to.Sell.mp4
+    ├── S01E05.Different.Ways.To.Create.Reaction.Videos.mp4
+    ├── S01E06.Creating.Landing.Pages.mp4
+    └── Short.Form.Riches.Class.Replays.xlsx
